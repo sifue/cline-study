@@ -6,6 +6,8 @@
 
 ## 作成物
 
+動作環境は[こちら](https://sifue.github.io/cline-study/)  
+
 ![gamme](image/game.png "ゲーム画面")
 
 [Phaser](https://phaser.io/)を使って作成された、テトリスライクなゲームです。
